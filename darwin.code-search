@@ -1,0 +1,15 @@
+# Query: darwin
+# ContextLines: 1
+
+2 results - 1 file
+
+package-lock.json:
+   6438        "os": [
+   6439:         "darwin"
+                 
+   6440        ],
+
+  14372        "os": [
+  14373:         "darwin",
+                 
+  14374        ],
